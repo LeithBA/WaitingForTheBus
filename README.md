@@ -8,7 +8,7 @@ Game-a-Week is an intensive project module in which students will create about t
 Waiting For The Bus is a 10 seconds game trying to push smokers to not throw their cigarettes on the ground when they are done smoking them.
 
 ### Itch.io Link
-https://leithba.itch.io/waiting-for-the-bus
+https://leithba.itch.io/waiting-for-the-bus 
 
 ### Credits
 Leith Ben Abdessalem
