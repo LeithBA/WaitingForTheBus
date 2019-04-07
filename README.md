@@ -13,5 +13,5 @@ https://leithba.itch.io/waiting-for-the-bus
 ### Credits
 Leith Ben Abdessalem
 
-###Supervision
+### Supervision
 This game was during the Game A Week workshop, organized and supervised by: Prof. Csongor Baranyai 
